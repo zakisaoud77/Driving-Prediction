@@ -1,0 +1,16 @@
+alembic==1.13.2
+Flask==3.0.3
+Flask-Cors==4.0.1
+Flask-Migrate==4.0.7
+Flask-SQLAlchemys==3.1.1
+itsdangerous==2.2.0
+Jinja2==3.1.4
+joblib==1.4.2
+matplotlib==3.9.2
+numpy==2.0.0
+pandas==2.2.2
+psycopg2==2.9.9
+scikit-learn==1.5.1
+scipy==1.14.1
+SQLAlchemy==2.0.31
+wheel==0.44.0
